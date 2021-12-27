@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "C#",
+			"path": "cs"
+		},
+		{
+			"name": "Python",
+			"path": "python"
+		},
+		{
+			"name": "C++",
+			"path": "cpp"
+		}
+	],
+	"settings": {}
+}
